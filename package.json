@@ -1,0 +1,25 @@
+{
+  "name": "react-responsive-carousel",
+  "version": "1.0.0",
+  "description": "Playground for react-responsive-carousel package. Use this to play around or to create an example when reporting an issue.",
+  "keywords": [
+    "carousel",
+    "react",
+    "react-responsive-carousel"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-jss": "10.5.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
